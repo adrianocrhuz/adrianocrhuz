@@ -1,5 +1,5 @@
 <h1>Olá, sou Adriano Cruz, apaixonado por tecnologia.</h1>
-## Estou Aprendendo,
+## Estou Aprendendo.
 <img align="center" alt="Cruz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" />
 
 <div>
