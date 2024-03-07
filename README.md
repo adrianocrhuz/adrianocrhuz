@@ -1,13 +1,13 @@
 <h1>Olá, sou Adriano Cruz, apaixonado por tecnologia.</h1>
-## Estou Aprendendo.
-<img align="center" alt="Cruz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" />
+<h2>Estou Aprendendo.</h2>
+<img align="center" alt="Cruz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" />
 
 <div>
 <a href="https://github.com/adrianocrhuz">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianocrhuz&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianocrhuz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Cruz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,7 +34,13 @@
   -->
   <a href = "mailto:adrianocruzone@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriano-cruz-4213aa9b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div></p>
 
+<h2>Projetos:</h2>
+<div>
+<p><a href="https://embaixadoresdoreino.com.br/">Landing Page</a></p>
+<p><a href="https://sites.google.com/view/mamjardafrancesinha">Restaurante</a><p>
+<p><a href="https://sites.google.com/view/conceitodesignmarcenaria/">Loja Móveis Planejados</a></p>
+  
+</div>
 
